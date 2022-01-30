@@ -11,12 +11,11 @@ This is the Distributed Psychological Evaluation Dialogue System, which embeds p
 # Overview
 
 * [Getting Started](guide/usage.md)
-* [Psycho Script Path](script/designscript.md)
+* [Script Path](script/designscript.md)
 	- [Example](script/example.md)
 	- [Test Script](script/testscript.md)
 * [Chit-chat Path](model/chitchat.md)
 * [Robot Interface](interface/socialrobot.md)
 
----
 
 

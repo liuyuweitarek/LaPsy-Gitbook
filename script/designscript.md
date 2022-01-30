@@ -1,4 +1,9 @@
-# Function Tags
+# Script Path
+
+## Make your first script.
+
+
+## Function Flags
 
 🚩**IS_ASK**
 
@@ -24,11 +29,11 @@ Usage:
 	* **Case: Fuzzy Match**
 
 		Every keywords would be transformed into vectors and be calculated similarity with the INPUT sentence.
-The branch which are __most similar to the INPUT sentence__ and __over the threshold__ would be chosen.
+The branch which are __*most similar to the INPUT sentence*__ and __*over the threshold*__ would be chosen.
 
 	* **Case: Exact Match**
 
-		If the INPUT sentence __contains any keyword__, the branch with the keyword would be chosen.
+		If the INPUT sentence __*contains any keyword*__ , the branch with the keyword would be chosen.
 
 🚩**ID**
 
